@@ -292,3 +292,12 @@ The Big 5 domain aspects each have multiple "facets" of personality; the facets 
       * Seldom daydream. (reverse)
     
       * Seldom notice the emotional aspects of paintings and pictures. (reverse)
+
+
+## References
+
+Wikipedia: [Big Five personality traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
+
+Source: [Between Facets and Domains: 10 Aspects of the Big Five; by DeYoung, Quilty, Peterson](https://selfhacked.com/app/uploads/2017/11/10-Aspects-of-the-Big-Five.pdf)
+
+The Big Five is also known as the five-factor model.
